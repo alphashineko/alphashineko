@@ -1,16 +1,13 @@
-## Hi there 👋
+# hey, i'm alphashineko 👋
 
-<!--
-**alphashineko/alphashineko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Writing code, breaking things, and learning something new every day. Based in Philippines.
 
-Here are some ideas to get you started:
+- happy to pair on open-source stuff
+- shipping small and often
+- rewrites it once, then leaves it alone
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphashineko&layout=compact&langs_count=8&hide_border=true&theme=highcontrast" alt="Top languages" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=alphashineko&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=highcontrast" alt="alphashineko GitHub stats" />
+
+<img src="https://img.shields.io/badge/Go-2dd4bf?style=for-the-badge&logoColor=white" alt="Go" /> <img src="https://img.shields.io/badge/JavaScript-2dd4bf?style=for-the-badge&logoColor=white" alt="JavaScript" /> <img src="https://img.shields.io/badge/Python-2dd4bf?style=for-the-badge&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Docker-2dd4bf?style=for-the-badge&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/Neovim-2dd4bf?style=for-the-badge&logoColor=white" alt="Neovim" />
